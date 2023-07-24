@@ -1,4 +1,4 @@
-ipackage com.qa;
+package com.qa;
 
 /**
  * Hello world!
