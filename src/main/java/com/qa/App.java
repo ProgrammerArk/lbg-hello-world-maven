@@ -1,4 +1,4 @@
-package com.qa;
+ipackage com.qa;
 
 /**
  * Hello world!
@@ -13,6 +13,7 @@ public class App
         System.out.println(sayHelloToSomeone("Bob"));
         System.out.println(sayHelloToSomeone("Charlie"));
         System.out.println(sayHelloToSomeone("Zena"));
+	System.out.println(sayHelloToSomeone("Arka"));
         System.out.println(sayGoodbye());
     }
 
